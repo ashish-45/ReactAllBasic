@@ -22,7 +22,6 @@ const Array = () => {
 
     const [myArray,setMyArray] = useState(data)
 
-
     const clearArray = () => {
         setMyArray([]);
     }
